@@ -1,0 +1,22 @@
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.deps.json
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.runtimeconfig.json
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.runtimeconfig.dev.json
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.dll
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.pdb
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.csprojAssemblyReference.cache
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.csproj.CoreCompileInputs.cache
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.AssemblyInfoInputs.cache
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.AssemblyInfo.cs
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.dll
+/Users/didiervaldez/Desktop/PLATZI/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.pdb
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.deps.json
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.runtimeconfig.json
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.runtimeconfig.dev.json
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.dll
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/bin/Debug/netcoreapp2.2/PlatziSchool.pdb
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.csprojAssemblyReference.cache
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.csproj.CoreCompileInputs.cache
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.AssemblyInfoInputs.cache
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.AssemblyInfo.cs
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.dll
+/Users/didiervaldez/Desktop/PLATZI/Fundamentos de C#/PlatziSchool/obj/Debug/netcoreapp2.2/PlatziSchool.pdb
